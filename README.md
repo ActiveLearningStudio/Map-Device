@@ -3,19 +3,19 @@
 
 # Installation on Device
 
-1. You need to create compatbile image and push to Noovo Cloud first
+You need to create compatbile image and push to Noovo Cloud first
 
 These repos which are used to create images
 
-a. https://github.com/ActiveLearningStudio/ActiveLearningStudio-API (quay.io/curriki/client:box)
-b. https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client (quay.io/curriki/api:box)
-c. Trax (quay.io/curriki/trax:box)
-d. Tsugi (quay.io/curriki/tsugi:box)
-e. Nginx
-f. Certbot
-g. Postgres
-h. MySQL / MariaDB
-i. Moodle
+1. https://github.com/ActiveLearningStudio/ActiveLearningStudio-API (quay.io/curriki/client:box)
+2. https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client (quay.io/curriki/api:box)
+3. Trax (quay.io/curriki/trax:box)
+4. Tsugi (quay.io/curriki/tsugi:box)
+5. Nginx
+6. Certbot
+7. Postgres
+8. MySQL / MariaDB
+9. Moodle
 
 
 ## Clone folder into specific directory say /media/sda1/curriki
